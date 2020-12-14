@@ -1,6 +1,7 @@
 # Useful scripts: Conversion of weather database (S6 weather data to the format of PROMICE data)
 
 Version of this script: v05 (focused on S6 2016) (last update: 27/10/2020)
+
 Author: Nuno Canha
 
 # Goal of the script:
